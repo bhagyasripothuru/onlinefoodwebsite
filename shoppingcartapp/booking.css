@@ -1,0 +1,23 @@
+form {
+    position:relative;
+    width: 400px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background:block;
+    margin-bottom: 8px;
+
+    }
+ h2{
+   text-align: center;
+   color:black;
+ }
+ body{
+    background-image: url("img/.avif");
+    background-color: rgb(69, 127, 175);
+    background-repeat: no-repeat;
+    background-position:0%;
+ }
